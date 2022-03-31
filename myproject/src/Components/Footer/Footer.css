@@ -1,0 +1,33 @@
+
+ .green p{
+    /* background-color: rgb(26, 170, 26); */
+    background-color: #91be4a;
+    font-weight: 300;
+    font-style: italic;
+    color: black;
+
+}
+.text {
+    margin: 20px;
+    /* padding: 20px; */
+   
+
+}
+
+footer hr{
+    color: #ddd;
+}
+
+.under{
+    width: 80%;
+    margin: auto;
+    padding: 0%;  
+}
+.book-now {
+    background-color: white;
+    margin: auto;
+    padding: 0%;
+    width: 35%;
+
+}
+
