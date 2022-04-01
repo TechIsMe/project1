@@ -35,10 +35,12 @@
 
         <div className="green">
             <p>
+                
             {" "}
             Copyright 2021 PAWfections Salon NC - Designed and Powered by Print
             and Web Designer Raleigh/Durham
             </p>
+
         </div>
         </div>
     );
