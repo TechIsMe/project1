@@ -12,7 +12,7 @@
           
                 <div className='logo'>
                 
-                <img src={process.env.PUBLIC_URL + "/image/PAW-logo-2.png"}
+                <img src={process.env.PUBLIC_URL + "/image/paw-logo-2.png"}
             alt="paw" />
                 </div>
                 <nav>
